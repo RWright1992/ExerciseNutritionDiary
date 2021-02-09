@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+#2015-07-20
+
+CACHE:
+index.html
+offline.html
+css/index.css
+
+NETWORK:
+login.php
+
+
+FALLBACK:
+*.html offline.html
